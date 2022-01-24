@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/81489476/150791902-d6ffa424-33b2-400f-bf65-4de94a3e8b57.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/81489476/150795132-e4b0b79a-1496-44a3-bd73-587d267f8afe.gif)
 
 ## Notes
 
